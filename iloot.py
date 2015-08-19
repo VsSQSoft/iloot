@@ -43,7 +43,8 @@ ITEM_TYPES_TO_FILE_NAMES = {
     'movies':".mov",
     'sms': "sms.db",
     'voicemails': "voicemail",
-    'notes' : "notes."
+    'notes' : "notes.",
+    'apps':'iTunesMetadatalist.plist'
 }
 
 def mkdir_p(path):
